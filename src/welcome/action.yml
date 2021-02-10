@@ -1,5 +1,5 @@
 
-name: 'EddieHubCommunity Welcome Action'
+name: 'Tawfik Yasser GitHub Action Welcome'
 description: 'Welcome message on new Issues and Pull Requests'
 inputs:
   github-token:
